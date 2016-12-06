@@ -11,5 +11,10 @@ package ec.edu.distri.clientejava;
  */
 public class Prueba 
 {
+    String nombre;
+    String apellido;
+    String cedula;
+    int edad;
+    
     
 }
